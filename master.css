@@ -1,0 +1,21 @@
+#canvas {
+  display: block;
+  width: 98vw;
+  height: 90vh;
+  margin: 1vh auto;
+  background-color: black;
+}
+
+.toolbar {
+  display: flex;
+  margin-top: 1vh;
+  height: 7vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.toolbar button {
+  height: 100%;
+  padding: 0 20px;
+  font-size: 1em;
+}
