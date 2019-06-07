@@ -1,4 +1,7 @@
 # Particle Canvas
 A simple HTML5 canvas particle playground.
 
-Particle images credit: www.kenney.nl https://opengameart.org/content/particle-pack-80-sprites
+Check it out here: https://jimmyneutron8.github.io/particle-canvas/
+
+Particle images credit: www.kenney.nl
+https://opengameart.org/content/particle-pack-80-sprites
